@@ -92,7 +92,7 @@ var swiper = new Swiper(".mySwiper", {
 
 const social = document.querySelector(".social");
 
-const socialData = [{ name: "instagram", link: "https://www.instagram.com/ui_alireza/" },
+const socialData = [{ name: "instagram", link: "https://www.instagram.com/" },
 { name: "google", link: "mailto: alirezamansuri.ui@gmail.com" },
 { name: "linkedin", link: "https://www.linkedin.com/in/alireza-mansuri-7a99341a3/" },
 { name: "github", link: "https://github.com/alirezamansuri" },
